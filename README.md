@@ -30,5 +30,4 @@ Structure your report by using the report template that Starter_Code.zip include
 
 ![image](https://github.com/flopezco12/Credit_Risk_Classification_Supervised/assets/141666916/c6df47e0-9a89-4ea8-9a03-8d1ce316710e)
 
-![image](https://github.com/flopezco12/Credit_Risk_Classification_Supervised/assets/141666916/3d614971-7e2d-40b5-9a35-102e8d8fc166)
 
