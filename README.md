@@ -28,5 +28,7 @@ Structure your report by using the report template that Starter_Code.zip include
 2. The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 3. A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 
+![image](https://github.com/flopezco12/Credit_Risk_Classification_Supervised/assets/141666916/c6df47e0-9a89-4ea8-9a03-8d1ce316710e)
 
+![image](https://github.com/flopezco12/Credit_Risk_Classification_Supervised/assets/141666916/3d614971-7e2d-40b5-9a35-102e8d8fc166)
 
