@@ -30,9 +30,8 @@ Structure your report by using the report template that Starter_Code.zip include
 
 ![image](https://github.com/flopezco12/Credit_Risk_Classification_Supervised/assets/141666916/c6df47e0-9a89-4ea8-9a03-8d1ce316710e)
 
-Results Sumamry:
+Outcomes Summary:
 An overview of the analysis: I will generate a supervised learning machine algorithm, with the help of linear regression, to asses the risk of lending money to various clients, and subsequently quantify the risk of those borrowing money.
 
-The results: Based on the results, it appears that healthy
+The results: Based on the results, it appears that with the original data, the algorith was able to predict and classify the risk of loans with 95.20% accuracy. While, the addition of radom data to create an oversampeld data source, it lead to a higher accuracy of 99.36%. Therefore, this model is an accurate tool for businesses/companies to know what to expect in reagards to clients ability to repaym their loan.
 
-A summary:
