@@ -30,4 +30,9 @@ Structure your report by using the report template that Starter_Code.zip include
 
 ![image](https://github.com/flopezco12/Credit_Risk_Classification_Supervised/assets/141666916/c6df47e0-9a89-4ea8-9a03-8d1ce316710e)
 
+Results Sumamry:
+An overview of the analysis: I will generate a supervised learning machine algorithm, with the help of linear regression, to asses the risk of lending money to various clients, and subsequently quantify the risk of those borrowing money.
 
+The results: Based on the results, it appears that healthy
+
+A summary:
